@@ -28,7 +28,9 @@ Model specifications:
 
 ## File Descriptions
 
-- **QML01_project_code.ipynb** – implementation of the QML model, including data preprocessing, parameterized quantum circuit construction, training, and evaluation.
+a Code To be uploaded :
+
+- **QML01_project_code.ipynb** – implementation of the QML model, including data preprocessing, parameterized quantum circuits construction, training, and evaluation.
 
 ---
 
@@ -47,8 +49,4 @@ The dataset used in this project is publicly available on **Kaggle**.
 
 - Dataset: [Data](https://www.kaggle.com/datasets/tusharkute/cancer-probabilities/data).
 
----
 
-## Code
-
-To be uploaded.
