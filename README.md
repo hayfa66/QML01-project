@@ -39,7 +39,7 @@ a Code To be uploaded :
 The results and methodology are discussed in the following articles.
 
 - **Article 1:** [Introductory — Machine learning Ansatz](https://quantumml.substack.com/p/introductory-machine-learning-ansatz).
-- **Article 2:** QML01 – 
+- **Article 2:** QML01 — 
 
 ---
 
