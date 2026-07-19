@@ -1,2 +1,2 @@
-# QML01-project-inherently-sigmoid-model
+# QML01-project
 code to be uploaded.
