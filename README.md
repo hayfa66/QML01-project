@@ -1,23 +1,53 @@
 # QML01
 
-Implementation of a parameterized quantum machine learning model for binary classification using Qiskit.
+## Installation
 
-## Model
+Tested with **Python 3**.
 
-* **Input:** Binary features
-* **Output:** Probability prediction (0–1)
-* **Target error:** ≤ 0.05
+Required libraries:
 
-## Dataset
+- qiskit
+- numpy
+- pandas
+- matplotlib
+- asyncio
 
-Dataset from **Kaggle**.
+---
 
-> Kaggle link: [Data](https://www.kaggle.com/datasets/tusharkute/cancer-probabilities/data)
+## Project Motivation
 
-## Related Articles
+This project is part of a practical exploration of Quantum Machine Learning concepts through implementation.
 
-* **Article 1:** [Introductory — Machine learning Ansatz](https://quantumml.substack.com/p/introductory-machine-learning-ansatz).
-* **Article 2:** QML01 — Inherently Sigmoid Model *(link)*
+Model specifications:
+
+- **Input:** Binary features
+- **Output:** Probability prediction (0–1)
+- **Target error:** ≤ 0.05
+
+---
+
+## File Descriptions
+
+- **QML01_project_code.ipynb** – implementation of the QML model, including data preprocessing, parameterized quantum circuit construction, training, and evaluation. Parameterized circuit evaluations are parallelized using asyncio, allowing multiple circuit executions to run concurrently on the Qiskit Aer simulator.
+
+---
+
+## Results
+
+The results and methodology are discussed in the following articles.
+
+- **Article 1:** [Introductory — Machine learning Ansatz](https://quantumml.substack.com/p/introductory-machine-learning-ansatz).
+- **Article 2:** QML01 – 
+
+---
+
+## Data
+
+The dataset used in this project is publicly available on **Kaggle**.
+
+- Dataset: [Data](https://www.kaggle.com/datasets/tusharkute/cancer-probabilities/data).
+
+---
 
 ## Code
 
