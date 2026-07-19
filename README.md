@@ -28,7 +28,7 @@ Model specifications:
 
 ## File Descriptions
 
-- **QML01_project_code.ipynb** – implementation of the QML model, including data preprocessing, parameterized quantum circuit construction, training, and evaluation. Parameterized circuit evaluations are parallelized using asyncio, allowing multiple circuit executions to run concurrently on the Qiskit Aer simulator.
+- **QML01_project_code.ipynb** – implementation of the QML model, including data preprocessing, parameterized quantum circuit construction, training, and evaluation.
 
 ---
 
