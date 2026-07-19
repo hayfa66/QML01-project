@@ -2,7 +2,7 @@
 
 ## Installation
 
-Tested with **Python 3**.
+**Python 3**.
 
 Required libraries:
 
